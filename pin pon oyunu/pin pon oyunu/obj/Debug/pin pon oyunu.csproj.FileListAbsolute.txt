@@ -1,0 +1,11 @@
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\bin\Debug\pin pon oyunu.exe.config
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\bin\Debug\pin pon oyunu.exe
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\bin\Debug\pin pon oyunu.pdb
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin pon oyunu.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin pon oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin_pon_oyunu.Form1.resources
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin_pon_oyunu.Properties.Resources.resources
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin pon oyunu.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin pon oyunu.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin pon oyunu.exe
+C:\Users\osman\Desktop\özel\pin pon oyunu\pin pon oyunu\obj\Debug\pin pon oyunu.pdb
